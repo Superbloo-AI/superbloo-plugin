@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "superbloo": {
+      "type": "http",
+      "url": "https://api.superbloo.ai/mcp"
+    }
+  }
+}

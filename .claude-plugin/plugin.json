@@ -1,0 +1,27 @@
+{
+  "name": "superbloo",
+  "displayName": "Superbloo",
+  "version": "0.1.0",
+  "description": "Edit video from chat. Superbloo's editing agent cuts, captions, reframes, adds motion graphics and sound, checks its own work and returns a finished video.",
+  "author": {
+    "name": "Astro K Joseph",
+    "url": "https://superbloo.ai"
+  },
+  "homepage": "https://superbloo.ai/docs/agents/overview",
+  "repository": "https://github.com/Superbloo-AI/superbloo-plugin",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "video-editing",
+    "captions",
+    "reels",
+    "shorts",
+    "podcast",
+    "motion-graphics"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://superbloo.ai/docs/agents/overview",
+  "supportUrl": "https://superbloo.ai/support",
+  "privacyPolicyUrl": "https://superbloo.ai/privacy-policy",
+  "termsOfServiceUrl": "https://superbloo.ai/terms-of-service"
+}

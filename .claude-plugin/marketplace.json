@@ -1,0 +1,18 @@
+{
+  "name": "superbloo",
+  "owner": {
+    "name": "Superbloo",
+    "email": "support@superbloo.ai",
+    "url": "https://superbloo.ai"
+  },
+  "metadata": {
+    "description": "Superbloo's official plugin: edit video from Claude with Superbloo's editing agent."
+  },
+  "plugins": [
+    {
+      "name": "superbloo",
+      "source": "./",
+      "description": "Edit video from chat. Superbloo's editing agent cuts, captions, reframes, adds motion graphics and sound, checks its own work and returns a finished video."
+    }
+  ]
+}
